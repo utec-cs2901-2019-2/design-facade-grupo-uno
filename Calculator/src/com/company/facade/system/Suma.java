@@ -9,7 +9,7 @@ public class Suma {
         this.b = b;
     }
 
-    public int exec(){
+    public float exec(){
         return a+b;
     }
 }

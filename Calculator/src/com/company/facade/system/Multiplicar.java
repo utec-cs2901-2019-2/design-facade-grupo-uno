@@ -9,7 +9,7 @@ public class Multiplicar {
         this.b = b;
     }
 
-    public int exec(){
+    public float exec(){
         return a*b;
     }
 }
